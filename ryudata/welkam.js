@@ -16,8 +16,6 @@ Dan Mematuhi Rules Yang Ada
 
 // UCAPAN GOODBYE
 exports.goodbye = () => {
-	return `Tetap Putus Asa Jangan
-Semangat Dan Jadilah Beban
-Keluarga 🤙🗿
+	return `Balik Lagi Jangan Lupa Baca Rules Yaa🤗
 `
 }
