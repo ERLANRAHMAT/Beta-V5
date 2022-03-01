@@ -175,7 +175,7 @@ Instagram : @Fandyyy._
 }
 
 //GAME MENU
-exports.srandomimg = (prefix) => {
+exports.srandom = (prefix) => {
 	return`Media Sosial 👾
 Instagram : @Fandyyy._
 *🎡 RANDOM MENU*
