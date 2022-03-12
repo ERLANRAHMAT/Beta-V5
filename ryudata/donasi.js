@@ -2,16 +2,9 @@
 
 // UCAPAN WELCOME
 exports.donasi = () => {
-	return`*TERIMA KASIH SUDAH MAU DONASI 🤗*
-
-*Q.S Az-Zalzalah Ayat 7 :*
-
-فَمَنْ يَّعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَّرَهٗۚ
-
-Artinya : Maka barangsiapa 
-mengerjakan kebaikan seberat
-zarrah, niscaya dia akan melihat 
-(balasan)nya,
+	return`*Tetap Support BetaBotz-MD dengan cara Donasi nya ka
+Jangan Lupa Subscribe Youtube RyuukaBotz Agar Tidak Ketinggalan 
+Info Bot Terbaru
 
 contact owner :
 wa.me/6285803583481 (Owner)
